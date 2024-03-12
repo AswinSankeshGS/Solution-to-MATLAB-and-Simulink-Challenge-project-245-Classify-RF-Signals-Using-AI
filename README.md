@@ -45,18 +45,18 @@ To run this MATLAB code, ensure you have the following prerequisites:
 
 To test the program:
 
-1. Download the `ML_model.mat` file to load the pre-trained ML network.
+1. Download the `Trained_ML_Model.mat` file to load the pre-trained ML network.
 2. Run the program named `testingML.m` under the Testing sub-folder. This file serves as the receiver.
 
 To transmit WiFi/Bluetooth/both signals:
 
-1. Execute the appropriate files in the `Training` sub-folder on a different computer.
+1. Execute the appropriate files in the `Transmitter` sub-folder on a different computer.
 
 ### Training the ML Model
 
 If you wish to train the ML model:
 
-1. Create datasets for WiFi/Bluetooth/both signals using the files in the `Transmitter` folder.
+1. Create datasets for WiFi/Bluetooth/both signals using the files in the `Transmitter` and `Receiver` folders.
 2. Train the model using MATLAB codes in the `Training` folder.
 3. Follow the same procedure for testing after training.
 
