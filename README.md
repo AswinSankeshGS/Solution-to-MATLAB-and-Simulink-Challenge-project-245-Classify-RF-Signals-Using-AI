@@ -64,7 +64,7 @@ Ensure you follow these steps carefully to effectively utilize and test the MATL
 ### Demo
 
 The following video, shows the demo of our solution
-
+[Realtime Testing Video](https://github.com/AswinSankeshGS/Solution-to-MATLAB-and-Simulink-Challenge-project-245-Classify-RF-Signals-Using-AI/blob/ccf7d46ab5a93f201118be269ef35d9540774a3d/Realtime_Testing_Video/Final_Realtime_Testing.mp4)
 ### Contributors
 
 - Aswin Sankesh G S
