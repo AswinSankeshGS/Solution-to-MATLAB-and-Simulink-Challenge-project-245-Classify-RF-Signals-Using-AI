@@ -7,3 +7,5 @@ This folder contains code for  training a machine learning model for classificat
 `Trained_ML_Model.m`:is a pretrained network for calssification
 # Example Pictures
 `Training_Accuracy_Pic.png` and `Training_Pic.Png` are sample pictures taken during training the network.
+# Confusion Matrix Picture
+`confusion_matrix.jpg` image shows the confusion matrix of training model.
